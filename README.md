@@ -38,8 +38,8 @@
 
 ##
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tcorrea&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="tcorrea" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tcorrea&show_icons=true&locale=en&layout=compact" alt="tcorrea" /></p>
+<!--theme=gruvbox& -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tcorrea&show_icons=true&locale=en" alt="tcorrea" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tcorrea&show_icons=true&theme=gruvbox&locale=en" alt="tcorrea" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tcorrea&theme=gruvbox&" alt="tcorrea" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tcorrea&" alt="tcorrea" /></p>
