@@ -1,7 +1,12 @@
-<h1 align="center">Oi 👋, eu sou o Thiago Corrêa</h1>
-<h3 align="center">Estudante de Desenvolvimento Web Full Stack</h3>
+Oi 👋, eu sou o <b> Thiago Corrêa</b>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tcorrea&label=Profile%20views&color=0e75b6&style=flat" alt="tcorrea" /></p>-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tcorrea&label=Profile%20views&color=0e75b6&style=flat" alt="tcorrea" /> </p>
+![](https://komarev.com/ghpvc/?username=tcorrea&label=Profile%20views&color=0e75b6&style=flat)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+
+
+
+Estudante de desenvolvimento web na *[Trybe](https://braydoncoyer.dev/blog/5-basic-tips-for-angular-unit-testing)*
 
 - 🌱 Atualmente estou estudando **Back-end (Docker/Mysql/Node)**
 
