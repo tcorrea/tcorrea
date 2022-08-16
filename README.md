@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=blueviolet)](https://www.linkedin.com/in/thiago-de-carvalho-correa/)
 ### Oi 👋, eu sou o <b> Thiago Corrêa</b>
 
-Estudante de desenvolvimento web na *[Trybe](https://braydoncoyer.dev/blog/5-basic-tips-for-angular-unit-testing)*  <br>
+Estudante de desenvolvimento web na **[Trybe](https://www.betrybe.com/)**  <br>
 Fã de **tecnologia e programação**.
 
 ## :rocket: O que eu estou estudando ![](https://img.shields.io/badge/Backend-informational?style=flat-square&logoColor=white&color=50fa7b)
@@ -26,7 +26,9 @@ Fã de **tecnologia e programação**.
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=blueviolet)
 
 ## :star: Próximos passos ![](https://img.shields.io/badge/Backend-informational?style=flat-square&logoColor=white&color=50fa7b)
-![](https://img.shields.io/badge/Code-GO-informational?style=flat-square&logo=GO&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-GO-informational?style=flat-square&logo=GO&logoColor=white&color=ff79c6)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcorrea&count_private=true&show_icons=true&theme=dracula)
 
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tcorrea&show_icons=true&locale=en&layout=compact" alt="tcorrea" /></p>
