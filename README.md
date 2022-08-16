@@ -1,47 +1,37 @@
-Oi 👋, eu sou o <b> Thiago Corrêa</b>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tcorrea&label=Profile%20views&color=0e75b6&style=flat" alt="tcorrea" /></p>-->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tcorrea&label=Profile%20views&color=0e75b6&style=flat" alt="tcorrea" color=0D76A8  color=0e75b6/></p>-->
 
-![](https://komarev.com/ghpvc/?username=tcorrea&label=Profile%20views&color=0e75b6&style=flat)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+![](https://komarev.com/ghpvc/?username=tcorrea&label=Profile%20views&color=blueviolet&style=flat-square)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=blueviolet)](https://www.linkedin.com/in/thiago-de-carvalho-correa/)
+### Oi 👋, eu sou o <b> Thiago Corrêa</b>
 
+Estudante de desenvolvimento web na *[Trybe](https://braydoncoyer.dev/blog/5-basic-tips-for-angular-unit-testing)*  <br>
+Fã de **tecnologia e programação**.
 
+## :rocket: O que eu estou estudando ![](https://img.shields.io/badge/Backend-informational?style=flat-square&logoColor=white&color=50fa7b)
 
-Estudante de desenvolvimento web na *[Trybe](https://braydoncoyer.dev/blog/5-basic-tips-for-angular-unit-testing)*
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat-square&logo=Node.js&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Espress-informational?style=flat-square&logo=Express&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat-square&logo=Docker&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Mysql-informational?style=flat-square&logo=Mysql&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Git-informational?style=flat-square&logo=Git&logoColor=white&color=blueviolet)
 
-- 🌱 Atualmente estou estudando **Back-end (Docker/Mysql/Node)**
+## :heavy_check_mark: O que eu já estudei ![](https://img.shields.io/badge/Frontend-informational?style=flat-square&logoColor=white&color=50fa7b)
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thiago-de-carvalho-correa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago-de-carvalho-correa" height="30" width="40" /></a>
-</p>
+<!-- ![](https://img.shields.io/badge/Frontend-informational?style=flat-square&logoColor=white&color=8be9fd)-->
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-</p>
+![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=React&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=HTML5&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=blueviolet)
 
+## :star: Próximos passos ![](https://img.shields.io/badge/Backend-informational?style=flat-square&logoColor=white&color=50fa7b)
+![](https://img.shields.io/badge/Code-GO-informational?style=flat-square&logo=GO&logoColor=white&color=blueviolet)
+
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tcorrea&show_icons=true&locale=en&layout=compact" alt="tcorrea" /></p>
-<!--theme=gruvbox& -->
+<!--theme=gruvbox&
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tcorrea&show_icons=true&locale=en" alt="tcorrea" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tcorrea&" alt="tcorrea" /></p>
+-->
