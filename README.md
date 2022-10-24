@@ -11,26 +11,46 @@ Fã de **tecnologia e programação**.
 
 ## :rocket: O que eu estou estudando ![](https://img.shields.io/badge/Backend-informational?style=flat-square&logoColor=white&color=6272a4)
 
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=8be9fd)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat-square&logo=Node.js&logoColor=white&color=8be9fd)
-![](https://img.shields.io/badge/Code-Espress-informational?style=flat-square&logo=Express&logoColor=white&color=8be9fd)
-![](https://img.shields.io/badge/Code-Docker-informational?style=flat-square&logo=Docker&logoColor=white&color=8be9fd)
-![](https://img.shields.io/badge/Code-Mysql-informational?style=flat-square&logo=Mysql&logoColor=white&color=8be9fd)
-![](https://img.shields.io/badge/Code-Git-informational?style=flat-square&logo=Git&logoColor=white&color=8be9fd)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=8be9fd)
 
-## :heavy_check_mark: O que eu já estudei ![](https://img.shields.io/badge/Frontend-informational?style=flat-square&logoColor=white&color=6272a4)
+## :heavy_check_mark: O que eu já estudei
 
 <!-- ![](https://img.shields.io/badge/Frontend-informational?style=flat-square&logoColor=white&color=8be9fd)-->
-
+![](https://img.shields.io/badge/Frontend-informational?style=flat-square&logoColor=white&color=6272a4) :point_right:
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=React&logoColor=white&color=8be9fd)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=8be9fd)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=HTML5&logoColor=white&color=8be9fd)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=8be9fd)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=8be9fd) ★★★☆☆
+
+![](https://img.shields.io/badge/Backend-informational?style=flat-square&logoColor=white&color=6272a4)
+
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=8be9fd) ★★★☆☆
+
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat-square&logo=Node.js&logoColor=white&color=8be9fd) ★★★☆☆
+
+![](https://img.shields.io/badge/Code-Espress-informational?style=flat-square&logo=Express&logoColor=white&color=8be9fd) ★★★☆☆
+
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat-square&logo=Docker&logoColor=white&color=8be9fd) ★★★☆☆
+
+![](https://img.shields.io/badge/Code-Mongodb-informational?style=flat-square&logo=Mongodb&logoColor=white&color=8be9fd) ★★★☆☆
+
+![](https://img.shields.io/badge/Code-Mysql-informational?style=flat-square&logo=Mysql&logoColor=white&color=8be9fd) ★★★☆☆
+
+![](https://img.shields.io/badge/Code-Git-informational?style=flat-square&logo=Git&logoColor=white&color=8be9fd) ★★★☆☆
+
+<hr>
+
 
 ## :star: Próximos passos ![](https://img.shields.io/badge/Backend-informational?style=flat-square&logoColor=white&color=6272a4)
 ![](https://img.shields.io/badge/Code-GO-informational?style=flat-square&logo=GO&logoColor=white&color=8be9fd)
 
 <hr>
+
+
+
+
+
+
 
 <!-- 
 
