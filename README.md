@@ -15,14 +15,13 @@ Fã de **tecnologia e programação**.
 ![](https://img.shields.io/badge/✔️LEARNIG-informational?style=flat-square&logoColor=white&color=ffb86c)
 
 <!-- ## 🚀 O que eu estou estudando ![](https://img.shields.io/badge/Backend-informational?style=flat-square&logoColor=white&color=8be9fd) -->
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=blueviolet)
 
 ---
 
 ![](https://img.shields.io/badge/✔️SKILLS-informational?style=flat-square&logoColor=white&color=ffb86c)
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 | ![](https://img.shields.io/badge/Backend-informational?style=flat-square&logoColor=white&color=8be9fd)                             | ★★★★★ | ![](https://img.shields.io/badge/Frontend-informational?style=flat-square&logoColor=white&color=8be9fd)                            | ★★★★★ |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------- | ----- |
