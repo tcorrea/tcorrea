@@ -44,12 +44,6 @@ Fã de **tecnologia e programação**.
 
 <!-- ![](https://img.shields.io/badge/Frontend-informational?style=flat-square&logoColor=white&color=8be9fd)-->
 
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcorrea&count_private=true&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcorrea&count_private=true&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcorrea&count_private=true&show_icons=true&theme=dracula)
