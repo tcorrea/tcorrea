@@ -6,7 +6,7 @@
 
 ### Oi 👋, eu sou o <b> Thiago Corrêa</b>
 
-Desenvolvedor back-end Júnior. <br>
+Desenvolvedor back-end Júnior. Javascrip | Nodejs | Express <br>
 Estudante de desenvolvimento web na **[Trybe](https://www.betrybe.com/)** <br>
 Fã de **tecnologia e programação**.
 
