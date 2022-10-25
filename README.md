@@ -14,11 +14,15 @@ Fã de **tecnologia e programação**.
 
 ---
 
-![](https://img.shields.io/badge/✔️LEARNIG-informational?style=flat-square&logoColor=white&color=ffb86c)
+<!-- ![](https://img.shields.io/badge/✔️LEARNIG-informational?style=flat-square&logoColor=white&color=ffb86c) -->
 
 <!-- ## 🚀 O que eu estou estudando ![](https://img.shields.io/badge/Backend-informational?style=flat-square&logoColor=white&color=8be9fd) -->
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=blueviolet)
+<!-- ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=blueviolet) -->
+
+| ![](https://img.shields.io/badge/✔️LEARNIG-informational?style=flat-square&logoColor=white&color=ffb86c)                   | ![](https://img.shields.io/badge/✔️NEXT-informational?style=flat-square&logoColor=white&color=ffb86c)              |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=blueviolet) | ![](https://img.shields.io/badge/Code-GO-informational?style=flat-square&logo=GO&logoColor=white&color=blueviolet) |
 
 ---
 
@@ -39,12 +43,6 @@ Fã de **tecnologia e programação**.
 | Paragraph   | Text        | Paragraph   | Text        |-->
 
 <!-- ![](https://img.shields.io/badge/Frontend-informational?style=flat-square&logoColor=white&color=8be9fd)-->
-
----
-
-![](https://img.shields.io/badge/✔️NEXT-informational?style=flat-square&logoColor=white&color=ffb86c)
-
-![](https://img.shields.io/badge/Code-GO-informational?style=flat-square&logo=GO&logoColor=white&color=8be9fd)
 
 ---
 
