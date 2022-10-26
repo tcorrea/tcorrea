@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-### Oi 👋, eu sou o <b> Thiago Corrêa</b>
+### Oi 👋, eu sou o <b> Thiago de Carvalho Corrêa</b>
 
 Desenvolvedor back-end Júnior.
 
