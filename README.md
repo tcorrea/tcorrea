@@ -31,7 +31,7 @@ Fã de **tecnologia e programação**.
 
 ![](https://img.shields.io/badge/✔️SKILLS-informational?style=flat-square&logoColor=white&color=ffb86c)
 
-| ![](https://img.shields.io/badge/Backend-informational?style=flat-square&logoColor=white&color=8be9fd)                             | ★★★★★ | ![](https://img.shields.io/badge/Frontend-informational?style=flat-square&logoColor=white&color=8be9fd)                            | ★★★★★ |
+| ![](https://img.shields.io/badge/Backend-informational?style=flat-square&logoColor=white&color=8be9fd)                             | ★★★☆☆ | ![](https://img.shields.io/badge/Frontend-informational?style=flat-square&logoColor=white&color=8be9fd)                            | ★★☆☆☆ |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=blueviolet) | ★★★★☆ | ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=React&logoColor=white&color=blueviolet)           | ★★☆☆☆ |
 | ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=blueviolet) | ★★☆☆☆ | ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=blueviolet) | ★★☆☆☆ |
