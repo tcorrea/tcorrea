@@ -15,6 +15,8 @@ Fã de **tecnologia e programação**.
 
 **conecte-se comigo** :point_right: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=ffb86c)](https://www.linkedin.com/in/thiago-de-carvalho-correa/)
 
+✉️ thiagocorreacontato@gmail.com
+
 ---
 
 <!-- ![](https://img.shields.io/badge/✔️LEARNIG-informational?style=flat-square&logoColor=white&color=ffb86c) -->
