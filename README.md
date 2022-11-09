@@ -6,7 +6,7 @@
 
 ### Oi 👋, eu sou o <b> Thiago de Carvalho Corrêa</b>
 
-Desenvolvedor back-end Júnior.
+Desenvolvedor back-end Júnior. 📢 ![](https://img.shields.io/badge/OPEN&nbsp;TO&nbsp;WORK-informational?style=flat-square&logoColor=white&color=blueviolet)
 
 > _Javascrip_ | _Nodejs_ | _Express_
 
