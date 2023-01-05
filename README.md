@@ -4,15 +4,25 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-### Oi 👋, eu sou o <b> Thiago de Carvalho Corrêa</b>
+📢 ![](https://img.shields.io/badge/OPEN&nbsp;TO&nbsp;WORK-informational?style=flat-square&logoColor=white&color=blueviolet)
+<!--  ### Oi 👋, eu sou o <b> Thiago de Carvalho Corrêa</b>-->
+### Oi 👋,
+Meu nome é <b> Thiago de Carvalho Corrêa</b>, sou estudante de desenvolvimento web em busca de oportunidades como desenvolvedor de software júnior. 
 
+Tenho habilidades em tecnologias <b>_JavaScript_</b>, como <b>_ReactJS_</b>, <b>_NodeJS_</b> e <b>_Express_</b>, além disso, tenho conhecimento básico em <b>_HTML_</b>, <b>_CSS_</b>, <b>_Python_</b>, <b>_MySQL_</b>, <b>_MongoDB_</b>, <b>_GIT_</b> e <b>_Docker_</b>.
+
+Sou uma pessoa proativa e apaixonada por tecnologia, sempre estou em busca de novas oportunidades para aprender e me desenvolver como profissional. Acredito que tenho o potencial para me tornar um profissional de sucesso e estou pronto para aproveitar qualquer oportunidade que possa me ajudar a crescer e desenvolver minhas habilidades.
+
+Se você estiver procurando por um desenvolvedor de software júnior com habilidades em tecnologias JavaScript, não hesite em entrar em contato comigo. Obrigado por visitar meu perfil!
+
+<!--
 Desenvolvedor back-end Júnior. 📢 ![](https://img.shields.io/badge/OPEN&nbsp;TO&nbsp;WORK-informational?style=flat-square&logoColor=white&color=blueviolet)
 
 > _Javascrip_ | _Nodejs_ | _Express_
 
 Estudante de desenvolvimento web na **[Trybe](https://www.betrybe.com/)** <br>
 Fã de **tecnologia e programação**.
-
+-->
 **conecte-se comigo** :point_right: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=ffb86c)](https://www.linkedin.com/in/thiago-de-carvalho-correa/)
 
 ✉️ thiagocorreacontato@gmail.com
