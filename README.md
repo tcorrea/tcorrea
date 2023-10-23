@@ -8,7 +8,7 @@
 
 Entusiasta da tecnologia, dedico-me continuamente ao aprimoramento no desenvolvimento web, com foco especial no front-end (`React`, `Javascript`, `Typescript`, `HTML` e `CSS`). 
 
-Atualmente, estou me desafiando no estudo da linguagem `Python` para ampliar meus horizontes e diversificar minha área de atuação no vasto universo tecnológico."
+Atualmente, estou me desafiando no estudo da linguagem `Python` para ampliar meus horizontes e diversificar minha área de atuação no vasto universo tecnológico.
 
 - 🔭 Atualmente estou trabalhando/aprendendo em [CS50 - Introduction to Programming with Python](https://pll.harvard.edu/course/cs50s-introduction-programming-python/2023-05)
 
