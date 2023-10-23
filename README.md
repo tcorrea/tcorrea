@@ -1,69 +1,22 @@
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tcorrea&label=Profile%20views&color=0e75b6&style=flat" alt="tcorrea" color=0D76A8  color=0e75b6/></p>-->
+<h1 align="center">Oi 👋, eu sou Thiago de Carvalho Corrêa</h1>
+<h3 align="center">Desenvolvedor Web - Frontend (React)</h3>
 
-![](https://komarev.com/ghpvc/?username=tcorrea&label=Profile%20views&color=6272a4&style=flat-square)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tcorrea&label=Profile%20views&color=0e75b6&style=flat" alt="tcorrea" /> </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+- 🔭 Atualmente estou trabalhando/aprendendo em [CS50 - Introduction to Programming with Python](https://pll.harvard.edu/course/cs50s-introduction-programming-python/2023-05)
 
-📢 ![](https://img.shields.io/badge/OPEN&nbsp;TO&nbsp;WORK-informational?style=flat-square&logoColor=white&color=blueviolet)
-<!--  ### Oi 👋, eu sou o <b> Thiago de Carvalho Corrêa</b>-->
-### Oi 👋,
-Meu nome é <b> Thiago de Carvalho Corrêa</b>, sou estudante de desenvolvimento web em busca de oportunidades como desenvolvedor de software júnior. 
+- 👯 Estou buscando colaborar em **Projetos Frontend (React)**
 
-Tenho habilidades em tecnologias <b>_JavaScript_</b>, como <b>_ReactJS_</b>, <b>_NodeJS_</b> e <b>_Express_</b>, além disso, tenho conhecimento básico em <b>_HTML_</b>, <b>_CSS_</b>, <b>_Python_</b>, <b>_MySQL_</b>, <b>_MongoDB_</b>, <b>_GIT_</b> e <b>_Docker_</b>.
+- 📫 Como me contatar **thiagocorreacontato@gmail.com**
 
-Sou uma pessoa proativa e apaixonada por tecnologia, sempre estou em busca de novas oportunidades para aprender e me desenvolver como profissional. Acredito que tenho o potencial para me tornar um profissional de sucesso e estou pronto para aproveitar qualquer oportunidade que possa me ajudar a crescer e desenvolver minhas habilidades.
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/thiago-de-carvalho-correa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago-de-carvalho-correa" height="30" width="40" /></a>
+</p>
 
-Se você estiver procurando por um desenvolvedor de software júnior com habilidades em tecnologias JavaScript, não hesite em entrar em contato comigo. Obrigado por visitar meu perfil!
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<!--
-Desenvolvedor back-end Júnior. 📢 ![](https://img.shields.io/badge/OPEN&nbsp;TO&nbsp;WORK-informational?style=flat-square&logoColor=white&color=blueviolet)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tcorrea&show_icons=true&locale=en&layout=compact" alt="tcorrea" /></p>
 
-> _Javascrip_ | _Nodejs_ | _Express_
-
-Estudante de desenvolvimento web na **[Trybe](https://www.betrybe.com/)** <br>
-Fã de **tecnologia e programação**.
--->
-**conecte-se comigo** :point_right: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=ffb86c)](https://www.linkedin.com/in/thiago-de-carvalho-correa/)
-
-✉️ thiagocorreacontato@gmail.com
-
----
-
-<!-- ![](https://img.shields.io/badge/✔️LEARNIG-informational?style=flat-square&logoColor=white&color=ffb86c) -->
-
-<!-- ## 🚀 O que eu estou estudando ![](https://img.shields.io/badge/Backend-informational?style=flat-square&logoColor=white&color=8be9fd) -->
-
-<!-- ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=blueviolet) -->
-
-| ![](https://img.shields.io/badge/✔️LEARNIG-informational?style=flat-square&logoColor=white&color=ffb86c)                   | ![](https://img.shields.io/badge/✔️NEXT-informational?style=flat-square&logoColor=white&color=ffb86c)              |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=blueviolet) | ![](https://img.shields.io/badge/Code-GO-informational?style=flat-square&logo=GO&logoColor=white&color=blueviolet) |
-
----
-
-![](https://img.shields.io/badge/✔️SKILLS-informational?style=flat-square&logoColor=white&color=ffb86c)
-
-| ![](https://img.shields.io/badge/Backend-informational?style=flat-square&logoColor=white&color=8be9fd)                             | ⭐⭐⭐☆☆ | ![](https://img.shields.io/badge/Frontend-informational?style=flat-square&logoColor=white&color=8be9fd)                            | ⭐⭐☆☆☆ |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=blueviolet) | ⭐⭐⭐⭐☆ | ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=React&logoColor=white&color=blueviolet)           | ⭐⭐☆☆☆ |
-| ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=blueviolet) | ⭐⭐☆☆☆ | ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=blueviolet) | ⭐⭐☆☆☆ |
-| ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat-square&logo=Node.js&logoColor=white&color=blueviolet)       | ⭐⭐⭐☆☆ | ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=HTML5&logoColor=white&color=blueviolet)           | ⭐⭐☆☆☆ |
-| ![](https://img.shields.io/badge/Code-Espress-informational?style=flat-square&logo=Express&logoColor=white&color=blueviolet)       | ⭐⭐⭐☆☆ | ![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=blueviolet)             | ⭐⭐☆☆☆ |
-| ![](https://img.shields.io/badge/Code-Docker-informational?style=flat-square&logo=Docker&logoColor=white&color=blueviolet)         | ⭐⭐⭐☆☆ |                                                                                                                                    |       |
-| ![](https://img.shields.io/badge/Code-Mongodb-informational?style=flat-square&logo=Mongodb&logoColor=white&color=blueviolet)       | ⭐⭐☆☆☆ |                                                                                                                                    |       |
-| ![](https://img.shields.io/badge/Code-Mysql-informational?style=flat-square&logo=Mysql&logoColor=white&color=blueviolet)           | ⭐⭐☆☆☆ |                                                                                                                                    |       |
-| ![](https://img.shields.io/badge/Code-Git-informational?style=flat-square&logo=Git&logoColor=white&color=blueviolet)               | ⭐⭐⭐☆☆ |                                                                                                                                    |       |
-
-<!--
-| Paragraph   | Text        | Paragraph   | Text        |-->
-
-<!-- ![](https://img.shields.io/badge/Frontend-informational?style=flat-square&logoColor=white&color=8be9fd)-->
-
-<!--
-★★☆☆☆
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcorrea&count_private=true&show_icons=true&theme=dracula)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tcorrea&theme=dracula)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcorrea&count_private=true&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tcorrea&show_icons=true&locale=en" alt="tcorrea" /></p>
