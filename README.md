@@ -1,7 +1,14 @@
 <h1 align="center">Oi 👋, eu sou Thiago de Carvalho Corrêa</h1>
-<h3 align="center">Desenvolvedor Web - Frontend (React)</h3>
+<h3 align="center">Desenvolvedor Web Júnior - Frontend (React)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tcorrea&label=Profile%20views&color=0e75b6&style=flat" alt="tcorrea" /> </p>
+
+📢 ![](https://img.shields.io/badge/OPEN&nbsp;TO&nbsp;WORK-informational?style=flat-square&logoColor=white&color=blueviolet)
+
+
+Entusiasta da tecnologia, dedico-me continuamente ao aprimoramento no desenvolvimento web, com foco especial no front-end (`React`, `Javascript`, `Typescript`, `HTML` e `CSS`). 
+
+Atualmente, estou me desafiando no estudo da linguagem `Python` para ampliar meus horizontes e diversificar minha área de atuação no vasto universo tecnológico."
 
 - 🔭 Atualmente estou trabalhando/aprendendo em [CS50 - Introduction to Programming with Python](https://pll.harvard.edu/course/cs50s-introduction-programming-python/2023-05)
 
@@ -9,14 +16,27 @@
 
 - 📫 Como me contatar **thiagocorreacontato@gmail.com**
 
+
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thiago-de-carvalho-correa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago-de-carvalho-correa" height="30" width="40" /></a>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=ffb86c)](https://www.linkedin.com/in/thiago-de-carvalho-correa/)
+
 </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Linguagens e Ferramentas:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tcorrea&show_icons=true&locale=en&layout=compact" alt="tcorrea" /></p>
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=blueviolet)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tcorrea&show_icons=true&locale=en" alt="tcorrea" /></p>
+|![](https://img.shields.io/badge/Backend-informational?style=flat-square&logoColor=white&color=ffb86c)|![](https://img.shields.io/badge/Frontend-informational?style=flat-square&logoColor=white&color=ffb86c)|![](https://img.shields.io/badge/Ferramentas-informational?style=flat-square&logoColor=white&color=ffb86c)|
+|---|---|---|
+|![](https://img.shields.io/badge/Code-Node.js-informational?style=flat-square&logo=Node.js&logoColor=white&color=blueviolet)|![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=React&logoColor=white&color=blueviolet)|![Static Badge](https://img.shields.io/badge/System-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=blueviolet)|
+|![](https://img.shields.io/badge/Code-Espress-informational?style=flat-square&logo=Express&logoColor=white&color=blueviolet)|![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=HTML5&logoColor=white&color=blueviolet)|![](https://img.shields.io/badge/Code-Git-informational?style=flat-square&logo=git&logoColor=white&color=blueviolet) |
+|![]()|![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=blueviolet)|   |
+<!-- |   |   |   | -->
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tcorrea&show_icons=true&locale=pt-br&layout=compact&theme=one_dark_pro)
