@@ -39,4 +39,4 @@ Atualmente, estou me desafiando no estudo da linguagem `Python` para ampliar meu
 <!-- |   |   |   | -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tcorrea&show_icons=true&locale=pt-br&layout=compact&theme=one_dark_pro)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tcorrea&show_icons=true&locale=pt-br&layout=compact&theme=onedark)
