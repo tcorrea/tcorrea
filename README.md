@@ -8,11 +8,11 @@
 
 Entusiasta da tecnologia, dedico-me continuamente ao aprimoramento no desenvolvimento web, com foco especial no front-end (`React`, `Javascript`, `Typescript`, `HTML` e `CSS`). 
 
-Atualmente, estou me desafiando no estudo da linguagem `Python` para ampliar meus horizontes e diversificar minha área de atuação no vasto universo tecnológico.
+Atualmente, estou me desafiando no estudo da linguagem `Go` para ampliar meus horizontes e diversificar minha área de atuação no vasto universo tecnológico.
 
-- 🔭 Atualmente estou trabalhando/aprendendo em [CS50 - Introduction to Programming with Python](https://pll.harvard.edu/course/cs50s-introduction-programming-python/2023-05)
+- 🔭 Atualmente estou trabalhando/aprendendo em [Exercism]([https://pll.harvard.edu/course/cs50s-introduction-programming-python/2023-05](https://exercism.org/))
 
-- 👯 Estou buscando colaborar em **Projetos Frontend (React)**
+- 👯 Estou buscando colaborar em **Projetos Frontend (React)** e **Projetos Backend (Go)**
 
 - 📫 Como me contatar **thiagocorreacontato@gmail.com**
 
@@ -29,7 +29,7 @@ Atualmente, estou me desafiando no estudo da linguagem `Python` para ampliar meu
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=Go&logoColor=white&color=blueviolet)
 
 |![](https://img.shields.io/badge/Backend-informational?style=flat-square&logoColor=white&color=ffb86c)|![](https://img.shields.io/badge/Frontend-informational?style=flat-square&logoColor=white&color=ffb86c)|![](https://img.shields.io/badge/Ferramentas-informational?style=flat-square&logoColor=white&color=ffb86c)|
 |---|---|---|
