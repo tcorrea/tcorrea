@@ -1,30 +1,33 @@
-<h1 align="center">Oi 👋, eu sou Thiago de Carvalho Corrêa</h1>
-<h3 align="center">Desenvolvedor Web Júnior - Frontend (React)</h3>
+<h1 align="left">Oi 👋, eu sou Thiago</h1>
+<h3 align="left">Desenvolvedor Full-stack Júnior focado em construir aplicações web eficientes, seguras e minimalistas. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tcorrea&label=Profile%20views&color=0e75b6&style=flat" alt="tcorrea" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=tcorrea&label=Profile%20views&color=0e75b6&style=flat" alt="tcorrea" /> </p>
 
-📢 ![](https://img.shields.io/badge/OPEN&nbsp;TO&nbsp;WORK-informational?style=flat-square&logoColor=white&color=blueviolet)
+📢 ![](https://img.shields.io/badge/OPEN&nbsp;TO&nbsp;WORK-informational?style=flat-square&logoColor=white&color=blueviolet) -->
 
+Atualmente, dedico meus estudos e projetos ao ecossistema **Go** e à modernização do desenvolvimento web com foco em SSR (Server Side Rendering).
 
-Entusiasta da tecnologia, dedico-me continuamente ao aprimoramento no desenvolvimento web, com foco especial no front-end (`React`, `Javascript`, `Typescript`, `HTML` e `CSS`). 
+## Stack Principal (GoTH)
 
-Atualmente, estou me desafiando no estudo da linguagem `Go` para ampliar meus horizontes e diversificar minha área de atuação no vasto universo tecnológico.
+Acredito em simplicidade e performance, por isso adotei a stack:
+`Go` • `Templ (templUI)` • `HTMX` • `TailwindCSS`
 
-- 🔭 Atualmente estou trabalhando/aprendendo em [Exercism]([https://pll.harvard.edu/course/cs50s-introduction-programming-python/2023-05](https://exercism.org/))
+**Adicionais:**
+- **OS:** Linux 🐧
+- **Editor:** Neovim / VSCode
+- **Ferramentas:** Git, Docker, SQLC, Tmux. 
 
-- 👯 Estou buscando colaborar em **Projetos Frontend (React)** e **Projetos Backend (Go)**
+---
 
-- 📫 Como me contatar **thiagocorreacontato@gmail.com**
+<h3 align="left">Conecte-se comigo 📫</h3>
 
+- **LinkedIn:** [in/thiago-de-carvalho-correa](https://www.linkedin.com/in/thiago-de-carvalho-correa/)
+- **Email:** thiagocorreacontato@gmail.com
 
+---
+<!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=ffb86c)](https://www.linkedin.com/in/thiago-de-carvalho-correa/)-->
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=ffb86c)](https://www.linkedin.com/in/thiago-de-carvalho-correa/)
-
-</p>
-
+<!--
 ### Linguagens e Ferramentas:
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=blueviolet)
@@ -38,5 +41,6 @@ Atualmente, estou me desafiando no estudo da linguagem `Go` para ampliar meus ho
 |![]()|![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=blueviolet)|   |
 <!-- |   |   |   | -->
 
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tcorrea&show_icons=true&locale=pt-br&layout=compact&theme=onedark)
+-->
